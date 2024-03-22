@@ -1,5 +1,7 @@
 # openCV_assignment
 
+UFMG Grad School - Image Detection and Analysis (2013) 
+
 
 Exercise 1 - Background Subtraction
 
